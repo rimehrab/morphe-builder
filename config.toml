@@ -26,5 +26,5 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage
 # arch = "arm64-v8a"
 
 [Twitter]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/x"
 patches-source = "crimera/piko"
